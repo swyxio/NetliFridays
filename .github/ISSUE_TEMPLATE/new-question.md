@@ -1,22 +1,24 @@
 ---
 name: New Question
-about: new question
+about: new NetliFriday issue
 title: 'NetliFriday Issue: YOUR_ISSUE_TITLE_HERE'
 labels: ''
 assignees: sw-yx
 
 ---
 
-Netlify Issue Info (change as needed)
+## Netlify Issue Info (change as needed)
 
-- **Email or Twitter handle to contact for call** (note: all calls will be recorded): _____
+- **Email* or Twitter handle to contact for call** (note: all calls will be recorded): 
 - **Short description of issue**: 
 - **Netlify experience (Total Newbie/Beginner/Expert)**: 
 - (Optional) Reproduction of issue: 
 - (Optional) Public Netlify deploy log: 
-- **Resources, methods I have tried**:
+- (Optional) Resources, methods I have tried:
    - link1
    - link2
+
+* you can delete your email from here later, but if you must be private, feel free to email swyx@netlify.com with title "NetliFriday"
 
 ---
 
