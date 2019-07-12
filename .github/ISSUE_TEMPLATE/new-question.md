@@ -9,7 +9,7 @@ assignees: sw-yx
 
 ## Netlify Issue Info (change as needed)
 
-- **Email* or Twitter handle to contact for call** (note: all calls will be recorded): 
+- **Email or Twitter handle to DM for call** (note: all calls will be recorded): 
 - **Short description of issue**: 
 - **Netlify experience (Total Newbie/Beginner/Expert)**: 
 - (Optional) Reproduction of issue: 
@@ -18,7 +18,7 @@ assignees: sw-yx
    - link1
    - link2
 
-* you can delete your email from here later, but if you must be private, feel free to email swyx@netlify.com with title "NetliFriday"
+*Note: you can delete your email from here later, but if you must be private, feel free to email swyx@netlify.com with "NetliFriday" in the title*
 
 ---
 
